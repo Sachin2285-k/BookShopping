@@ -1,0 +1,35 @@
+﻿@model Ecomm_Project_1.Models.StartEndDate
+
+<div class="row">
+    <div class="col-9">
+        <h2 class="text-primary">Pending Orders</h2>
+    </div>
+</div>
+
+<div class="row p-3 m-3">
+    <form method="get">
+        <input type="date" name="Start"/>
+        <input type="date" name="End"/>
+        <input asp-action="Index" type="submit" value="Search" class="btn btn-primary">
+    </form>
+</div>
+
+
+<div class="border p-2 m-2">
+    <table id="tblData" class="table table-bordered table-striped table-active">
+        <thead>
+            <tr>
+                <th>Id</th>
+                <th>Name</th>
+                <th>Phone Number</th>
+                <th>Total</th>
+                <th>Order Date</th>
+            </tr>
+        </thead>
+    </table>
+</div>
+
+@section scripts
+{
+    <script src="~/js/PendingOrders.js"></script>
+}

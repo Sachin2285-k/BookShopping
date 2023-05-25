@@ -1,0 +1,15 @@
+D:\Ecomm ASP MVC\Ecomm_Project_1\Ecomm_Project_1.Utility\bin\Debug\net5.0\Ecomm_Project_1.Utility.deps.json
+D:\Ecomm ASP MVC\Ecomm_Project_1\Ecomm_Project_1.Utility\bin\Debug\net5.0\Ecomm_Project_1.Utility.runtimeconfig.json
+D:\Ecomm ASP MVC\Ecomm_Project_1\Ecomm_Project_1.Utility\bin\Debug\net5.0\Ecomm_Project_1.Utility.runtimeconfig.dev.json
+D:\Ecomm ASP MVC\Ecomm_Project_1\Ecomm_Project_1.Utility\bin\Debug\net5.0\Ecomm_Project_1.Utility.dll
+D:\Ecomm ASP MVC\Ecomm_Project_1\Ecomm_Project_1.Utility\bin\Debug\net5.0\Ecomm_Project_1.Utility.pdb
+D:\Ecomm ASP MVC\Ecomm_Project_1\Ecomm_Project_1.Utility\obj\Debug\net5.0\Ecomm_Project_1.Utility.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ecomm ASP MVC\Ecomm_Project_1\Ecomm_Project_1.Utility\obj\Debug\net5.0\Ecomm_Project_1.Utility.AssemblyInfoInputs.cache
+D:\Ecomm ASP MVC\Ecomm_Project_1\Ecomm_Project_1.Utility\obj\Debug\net5.0\Ecomm_Project_1.Utility.AssemblyInfo.cs
+D:\Ecomm ASP MVC\Ecomm_Project_1\Ecomm_Project_1.Utility\obj\Debug\net5.0\Ecomm_Project_1.Utility.csproj.CoreCompileInputs.cache
+D:\Ecomm ASP MVC\Ecomm_Project_1\Ecomm_Project_1.Utility\obj\Debug\net5.0\Ecomm_Project_1.Utility.dll
+D:\Ecomm ASP MVC\Ecomm_Project_1\Ecomm_Project_1.Utility\obj\Debug\net5.0\ref\Ecomm_Project_1.Utility.dll
+D:\Ecomm ASP MVC\Ecomm_Project_1\Ecomm_Project_1.Utility\obj\Debug\net5.0\Ecomm_Project_1.Utility.pdb
+D:\Ecomm ASP MVC\Ecomm_Project_1\Ecomm_Project_1.Utility\obj\Debug\net5.0\Ecomm_Project_1.Utility.genruntimeconfig.cache
+D:\Ecomm ASP MVC\Ecomm_Project_1\Ecomm_Project_1.Utility\obj\Debug\net5.0\Ecomm_Project_1.Utility.csproj.AssemblyReference.cache
+D:\Ecomm ASP MVC\Ecomm_Project_1\Ecomm_Project_1.Utility\bin\Debug\net5.0\ref\Ecomm_Project_1.Utility.dll
