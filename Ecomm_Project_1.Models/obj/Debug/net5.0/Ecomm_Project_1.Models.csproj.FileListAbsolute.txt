@@ -13,3 +13,18 @@ D:\Ecomm ASP MVC\Ecomm_Project_1\Ecomm_Project_1.Models\obj\Debug\net5.0\Ecomm_P
 D:\Ecomm ASP MVC\Ecomm_Project_1\Ecomm_Project_1.Models\obj\Debug\net5.0\Ecomm_Project_1.Models.genruntimeconfig.cache
 D:\Ecomm ASP MVC\Ecomm_Project_1\Ecomm_Project_1.Models\obj\Debug\net5.0\Ecomm_Project_1.Models.csproj.AssemblyReference.cache
 D:\Ecomm ASP MVC\Ecomm_Project_1\Ecomm_Project_1.Models\bin\Debug\net5.0\ref\Ecomm_Project_1.Models.dll
+C:\Users\Administrator\Desktop\Book\Ecomm_Project_1.Models\bin\Debug\net5.0\Ecomm_Project_1.Models.deps.json
+C:\Users\Administrator\Desktop\Book\Ecomm_Project_1.Models\bin\Debug\net5.0\Ecomm_Project_1.Models.runtimeconfig.json
+C:\Users\Administrator\Desktop\Book\Ecomm_Project_1.Models\bin\Debug\net5.0\Ecomm_Project_1.Models.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\Book\Ecomm_Project_1.Models\bin\Debug\net5.0\Ecomm_Project_1.Models.dll
+C:\Users\Administrator\Desktop\Book\Ecomm_Project_1.Models\bin\Debug\net5.0\ref\Ecomm_Project_1.Models.dll
+C:\Users\Administrator\Desktop\Book\Ecomm_Project_1.Models\bin\Debug\net5.0\Ecomm_Project_1.Models.pdb
+C:\Users\Administrator\Desktop\Book\Ecomm_Project_1.Models\obj\Debug\net5.0\Ecomm_Project_1.Models.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Book\Ecomm_Project_1.Models\obj\Debug\net5.0\Ecomm_Project_1.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Book\Ecomm_Project_1.Models\obj\Debug\net5.0\Ecomm_Project_1.Models.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Book\Ecomm_Project_1.Models\obj\Debug\net5.0\Ecomm_Project_1.Models.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Book\Ecomm_Project_1.Models\obj\Debug\net5.0\Ecomm_Project_1.Models.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Book\Ecomm_Project_1.Models\obj\Debug\net5.0\Ecomm_Project_1.Models.dll
+C:\Users\Administrator\Desktop\Book\Ecomm_Project_1.Models\obj\Debug\net5.0\ref\Ecomm_Project_1.Models.dll
+C:\Users\Administrator\Desktop\Book\Ecomm_Project_1.Models\obj\Debug\net5.0\Ecomm_Project_1.Models.pdb
+C:\Users\Administrator\Desktop\Book\Ecomm_Project_1.Models\obj\Debug\net5.0\Ecomm_Project_1.Models.genruntimeconfig.cache

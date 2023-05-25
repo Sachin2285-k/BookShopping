@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Git\\Ecomm_Project_1.Models\\Ecomm_Project_1.Models.csproj": {}
+    "C:\\Users\\Administrator\\Desktop\\Book\\Ecomm_Project_1.Models\\Ecomm_Project_1.Models.csproj": {}
   },
   "projects": {
-    "D:\\Git\\Ecomm_Project_1.Models\\Ecomm_Project_1.Models.csproj": {
+    "C:\\Users\\Administrator\\Desktop\\Book\\Ecomm_Project_1.Models\\Ecomm_Project_1.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Git\\Ecomm_Project_1.Models\\Ecomm_Project_1.Models.csproj",
+        "projectUniqueName": "C:\\Users\\Administrator\\Desktop\\Book\\Ecomm_Project_1.Models\\Ecomm_Project_1.Models.csproj",
         "projectName": "Ecomm_Project_1.Models",
-        "projectPath": "D:\\Git\\Ecomm_Project_1.Models\\Ecomm_Project_1.Models.csproj",
+        "projectPath": "C:\\Users\\Administrator\\Desktop\\Book\\Ecomm_Project_1.Models\\Ecomm_Project_1.Models.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "D:\\Git\\Ecomm_Project_1.Models\\obj\\",
+        "outputPath": "C:\\Users\\Administrator\\Desktop\\Book\\Ecomm_Project_1.Models\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

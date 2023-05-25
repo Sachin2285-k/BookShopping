@@ -6087,11 +6087,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Git\\Ecomm_Project_1.Utility\\Ecomm_Project_1.Utility.csproj",
+      "projectUniqueName": "C:\\Users\\Administrator\\Desktop\\Book\\Ecomm_Project_1.Utility\\Ecomm_Project_1.Utility.csproj",
       "projectName": "Ecomm_Project_1.Utility",
-      "projectPath": "D:\\Git\\Ecomm_Project_1.Utility\\Ecomm_Project_1.Utility.csproj",
+      "projectPath": "C:\\Users\\Administrator\\Desktop\\Book\\Ecomm_Project_1.Utility\\Ecomm_Project_1.Utility.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "D:\\Git\\Ecomm_Project_1.Utility\\obj\\",
+      "outputPath": "C:\\Users\\Administrator\\Desktop\\Book\\Ecomm_Project_1.Utility\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

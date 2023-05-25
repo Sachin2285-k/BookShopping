@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2/V/CbQKrKnXLV9bKq9Ak2yHunYzdaN1oXqxJIj+aFAifm4SZs4kDXjfjhei0enkG3q9sNDdS/60QSyRxxRKxg==",
+  "dgSpecHash": "MtsGLBS17+K/1q70LMuSmq3wVZDnDtU9OL4BQ2IUKt+NZZnc8H6HCuHvb7MRI8VywnVnNN3hQbRrUjH+QTs1lg==",
   "success": true,
-  "projectFilePath": "D:\\Git\\Ecomm_Project_1.DataAccess\\Ecomm_Project_1.DataAccess.csproj",
+  "projectFilePath": "C:\\Users\\Administrator\\Desktop\\Book\\Ecomm_Project_1.DataAccess\\Ecomm_Project_1.DataAccess.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Administrator\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
     "C:\\Users\\Administrator\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
